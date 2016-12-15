@@ -1,0 +1,52 @@
+WARNING: no script file lexicon.sort.txt.ded
+
+Dictionary Usage Statistics
+---------------------------
+  Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
+lexicon.sort    179485     179485     182923     182923
+    dict-tri    179485     179485     182923     182918
+
+179485 words required, 0 missing
+
+New Phone Usage Counts
+---------------------
+  1. s     : 74104
+  2. e     : 61372
+  3. r     : 89020
+  4. i     : 114054
+  5. b     : 38095
+  6. u     : 68102
+  7. m     : 71410
+  8. l     : 54386
+  9. a     : 224139
+ 10. n     : 96473
+ 11. t     : 71360
+ 12. p     : 49011
+ 13. h     : 27713
+ 14. sp    : 182915
+ 15. d     : 41907
+ 16. g     : 22687
+ 17. @     : 102271
+ 18. SPN   :    19
+ 19. NSN   :     3
+ 20. LAU   :     1
+ 21. k     : 76681
+ 22. ng    : 37188
+ 23. sil   :     3
+ 24. o     : 57044
+ 25. z     :  2702
+ 26. c     : 18509
+ 27. w     :  9611
+ 28. kh    :  1744
+ 29. j     : 13173
+ 30. ny    : 23747
+ 31. f     : 15016
+ 32. y     :  9228
+ 33. ai    :  2021
+ 34. au    :   799
+ 35. oi    :   108
+ 36. q     :   435
+ 37. sy    :  1222
+ 38. v     :     4
+
+Dictionary dict-tri created
