@@ -1,0 +1,500 @@
+  317  browserify index.js -o bundle.js
+  318  browserify bundle.js | uglifyjs > bundle.min.js
+  319  browserify index.js -o bundle.js
+  320  browserify bundle.js | uglifyjs > bundle.min.js
+  321  browserify index.js | uglifyjs > bundle.js
+  322  npm init
+  323  npm run build
+  324  git remote add origin https://github.com/elvanowen/rpp-expert-system.git
+  325  git push -u origin master
+  326  git cd ..
+  327  cd ..
+  328  cd RPP\ Expert\ System/
+  329  git remote add origin https://github.com/elvanowen/rpp-expert-system.git
+  330  git push -u origin master
+  331  git status
+  332  git init
+  333  git remote add origin https://github.com/elvanowen/rpp-expert-system.git
+  334  git status
+  335  sublime /
+  336  git status
+  337  git add .
+  338  git commit -m "First commit"
+  339  git push
+  340  git remote -v
+  341  git push origin master
+  342  npm run build
+  343  git status
+  344  git add .
+  345  git commit -m "second commit"
+  346  git push
+  347  git push origin master
+  348  git push origin master
+  349  npm run build
+  350  npm run build
+  351  npm run build
+  352  npm run build
+  353  npm run build
+  354  npm run build
+  355  npm run build
+  356  npm run build
+  357  npm run build
+  358  npm run build
+  359  npm run build
+  360  npm run build
+  361  npm run build
+  362  npm run build
+  363  npm run build
+  364  npm run build
+  365  npm run build
+  366  npm run build
+  367  npm run build
+  368  npm run build
+  369  npm run build
+  370  npm run build
+  371  npm run build
+  372  npm run build
+  373  npm run build
+  374  npm run build
+  375  npm run build
+  376  npm run build
+  377  npm run build
+  378  npm run build
+  379  npm run build
+  380  npm run build
+  381  npm run build
+  382  npm run build
+  383  npm run build
+  384  npm run build
+  385  npm run build
+  386  npm run 
+  387  npm run build
+  388  npm run build
+  389  npm run build
+  390  npm run build
+  391  npm run build
+  392  npm run build
+  393  npm run build
+  394  npm run build
+  395  npm run build
+  396  npm run build
+  397  npm run build
+  398  git status
+  399  git add .
+  400  git commit -m 
+  401  git commit -m "Second commit"
+  402  git push origin master
+  403  git status
+  404  browserify index.js | uglifyjs -c > bundle.js
+  405  sublime .
+  406  cd Development/
+  407  ls
+  408  cd RPP\ Expert\ System/
+  409  ls
+  410  git status
+  411  npm run bundle
+  412  git add .
+  413  git commit -m "third commit"
+  414  git push origin master
+  415  cd Development/RPP\ Expert\ System/
+  416  ls
+  417  git push origin master
+  418  cd Development/
+  419  cd RPP\ Expert\ System/
+  420  ls
+  421  git pull origin master
+  422  npm run bundle
+  423  open .
+  424  npm run build
+  425  sublime .
+  426  npm run build
+  427  npm run build
+  428  npm run build
+  429  npm run build
+  430  npm run build
+  431  npm run build
+  432  npm run build
+  433  npm run build
+  434  npm run build
+  435  npm run build
+  436  cd Development/RPP\ Expert\ System/
+  437  sublime .
+  438  sublime .
+  439  git pull
+  440  git pull origin master
+  441  git status
+  442  git checkout -- destinations.js
+  443  git checkout -- bundle.js
+  444  git pull origin master
+  445  npm run build
+  446  npm run build
+  447  npm run build
+  448  npm run build
+  449  npm run build
+  450  npm run build
+  451  npm run build
+  452  npm run build
+  453  npm run build
+  454  npm run build
+  455  npm run build
+  456  npm run build
+  457  npm run build
+  458  npm run build
+  459  npm run build
+  460  npm run build
+  461  npm run build
+  462  npm run build
+  463  npm run build
+  464  npm run build
+  465  npm run build
+  466  npm run build
+  467  npm run build
+  468  npm run build
+  469  npm run build
+  470  npm run build
+  471  npm run build
+  472  npm run build
+  473  npm run build
+  474  npm run build
+  475  npm run build
+  476  npm run build
+  477  npm run build
+  478  npm run build
+  479  npm run build
+  480  npm run build
+  481  npm run build
+  482  npm run build
+  483  npm run build
+  484  npm run build
+  485  npm run build
+  486  npm run build
+  487  git status
+  488  git add .
+  489  git commit -m "Fix typo"
+  490  git push origin master
+  491  git status
+  492  cd Development/
+  493  cd RPP\ Expert\ System/
+  494  git pull
+  495  git pull origin master
+  496  sublime .
+  497  git status
+  498  git add .
+  499  git commit -m "Added NIM"
+  500  git push origin master
+  501  cd ~/Downloads/
+  502  cd NLP
+  503  ls
+  504  cd transcript/
+  505  ls
+  506  cut -f 1,2 A-raw.tsv 
+  507  ls
+  508  ls | xargs -p 
+  509  ls | xargs -p 
+  510  xargs -p
+  511  ls | xargs -p cut -f 1,2
+  512  ls | xargs -p -n 1 cut -f 1,2
+  513  ls *.tsv | xargs -p cut -f 1,2
+  514  ls *.tsv | xargs -I {} -p cut -f 1,2 {} > cut-{}
+  515  ls *.tsv | xargs -I {} -p cut -f 1,2 {} > cut-{}
+  516  ls
+  517  open ,
+  518  open .
+  519  cut -f 1,2 A-raw.tsv > A-raw.cut.tsv 
+  520  cut -f 1,2 B-raw.tsv > B-raw.cut.tsv 
+  521  cut -f 1,2 C-raw.tsv > C-raw.cut.tsv 
+  522  cut -f 1,2 D-raw.tsv > D-raw.cut.tsv 
+  523  cut -f 1,2 E-raw.tsv > E-raw.cut.tsv 
+  524  cut -f 1,2 F-raw.tsv > F-raw.cut.tsv 
+  525  cut -f 1,2 G-raw.tsv > G-raw.cut.tsv 
+  526  cut -f 1,2 H-raw.tsv > H-raw.cut.tsv 
+  527  cut -f 1,2 I-raw.tsv > I-raw.cut.tsv 
+  528  cut -f 1,2 J-raw.tsv > J-raw.cut.tsv 
+  529  cd ..
+  530  sublime .
+  531  sublime .
+  532  ls
+  533  cd set_1/
+  534  ls
+  535  ls A004
+  536  ls A004 | xargs -n 1
+  537  ls A004 | xargs -n 1 > 1.txt
+  538  ls A016 | xargs -n 1 > 2.txt
+  539  ls A052 | xargs -n 1 > 3.txt
+  540  ls A075 | xargs -n 1 > 3.txt
+  541  ls A052 | xargs -n 1 > 3.txt
+  542  ls A075 | xargs -n 1 > 4.txt
+  543  ls B070 | xargs -n 1 > 5.txt
+  544  ls B087 | xargs -n 1 > 6.txt
+  545  ls B128 | xargs -n 1 > 7.txt
+  546  ls B182 | xargs -n 1 > 8.txt
+  547  ls B188 | xargs -n 1 > 9.txt
+  548  ls B194 | xargs -n 1 > 10.txt
+  549  julia
+  550  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia
+  551  cd ..
+  552  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2wlist.jl transcript/A-raw.cut.tsv wlist
+  553  ls
+  554  less wlist 
+  555  ls
+  556  cd transcript/
+  557  ls
+  558  cat *.cut.tsv > cut.tsv
+  559  less cut.tsv 
+  560  wc -l cut.tsv 
+  561  cd ..
+  562  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2wlist.jl transcript/cut.tsv wlist
+  563  sublime .
+  564  HDMan -A -D -T 1 -m -w wlist -n monophones1 -i -l dlog dict lexicon.txt
+  565  HDMan 
+  566  HDMan -A -D -T 1 -m -w wlist -n monophones1 -i -l dlog dict lexicon.txt
+  567  HDMan 
+  568  HDMan -A -D -T 1 -m -w wlist -n monophones1 -i -l dlog dict lexicon.txt
+  569  HDMan -A -D -T 1 -m -w wlist -n monophones1 -i -l dlog dict lexicon.txt
+  570  HDMan -A -D -T 1 -m -w wlist -n monophones1 -i -l dlog dict lexicon.txt
+  571  cat wlist | sed 's/[^a-zA-Z0-9]//g'
+  572  cat wlist | sed 's/[^a-zA-Z0-9]//g' > wlist.stripunc
+  573  sort wlist.stripunc | uniq -u
+  574  sort wlist.stripunc | uniq -u > wlist.uniq
+  575  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.txt
+  576  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.txt
+  577  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict VoxForgeDict.txt 
+  578  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.txt
+  579  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2mlf.jl transcript/cut.tsv words.mlf
+  580  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.txt
+  581  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.txt
+  582  history
+  583  sort lexicon.txt > lexicon.sort.txt 
+  584  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  585  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  586  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  587  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  588  tail dlog 
+  589  sort lexicon.txt /o lexiconSort.txt
+  590  sort
+  591  man sort
+  592  sort lexicon.txt -o lexicon.sort.txt
+  593  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  594  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  595  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  596  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf 
+  597  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf 
+  598  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf 
+  599  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf 
+  600  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf 
+  601  echo "All" | tr '[:upper:]' '[:lower:]'
+  602  ls transcript/
+  603  transcript/cut.tsv | tr '[:upper:]' '[:lower:]'
+  604  cat transcript/cut.tsv | tr '[:upper:]' '[:lower:]'
+  605  cat transcript/cut.tsv | tr '[:upper:]' '[:lower:]' > transcript/cut.lower.tsv
+  606  history
+  607  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2wlist.jl transcript/cut.tsv wlist
+  608  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2wlist.jl transcript/cut.lower.tsv wlist
+  609  history
+  610  cat wlist | sed 's/[^a-zA-Z0-9]//g' > wlist.stripunc
+  611  sort wlist.stripunc | uniq -u > wlist.uniq
+  612  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt 
+  613  git remote add origin https://github.com/MarcoOrlando/ASRNLP.git
+  614  git init
+  615  git remote add origin https://github.com/MarcoOrlando/ASRNLP.git
+  616  git status
+  617  git status
+  618  git add .
+  619  git commit -m "First"
+  620  git push origin master
+  621  itbsetproxy 
+  622  git push origin master
+  623  git pull origin master
+  624  git push origin master
+  625  git status
+  626  git add .
+  627  git commit -m "remove lm.arpa"
+  628  git push origin master
+  629  history
+  630  echo "abcdefg" | grep -o .
+  631  echo "abcdefg" | grep -o . | xargs
+  632  cat temp | grep -o . | xargs
+  633  echo "abcdefg" | fold -w1
+  634  echo hello | awk '$0=RT' RS=[[:alnum:]]
+  635  cat temp | grep -o . | xargs
+  636  cat temp | fold -w1
+  637  echo "Hello world" | sed -e 's/\(.\)/\1\n/g'
+  638  echo "Hello world" | sed -e 's/\(.\)/\1\n/g'
+  639  echo "Hello world" | sed -e 's/\(.\)/\1\\n/g'
+  640  echo "Hello world" | sed -e 's/\(.\)/\1 /g'
+  641  cat temp | sed -e 's/\(.\)/\1 /g'
+  642  cat temp | sed -e 's/\(.\)/\1 /g' > temp.split
+  643  cat temp | sed -e 's/\(.\)/\1 /g' > temp.split
+  644  git status
+  645  git add .
+  646  git commit -m "split"
+  647  git push
+  648  git push origin master
+  649  git status
+  650  git add .
+  651  git commit -m "added lexicon"
+  652  git pull origin master
+  653  git status
+  654  git add .
+  655  git commit -m "merge"
+  656  sort lexicon.txt -o lexicon.sort.txt
+  657  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  658  sort lexicon.txt -o lexicon.sort.txt
+  659  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  660  sort lexicon.txt -o lexicon.sort.txt
+  661  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  662  git status
+  663  git add .
+  664  git commit -m "fix"
+  665  git pull origin master
+  666  git status
+  667  git add .
+  668  git commit -m "merge"
+  669  git push origin master
+  670  sort lexicon.txt -o lexicon.sort.txt
+  671  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  672  git status
+  673  git add .
+  674  git commit -m "fix"
+  675  git pull origin master
+  676  git status
+  677  git add .
+  678  git commit -m "merge"
+  679  sort lexicon.txt -o lexicon.sort.txt
+  680  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  681  git pull origin master
+  682  sort lexicon.txt -o lexicon.sort.txt
+  683  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  684  sort lexicon.txt -o lexicon.sort.txt
+  685  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  686  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  687  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2mlf.jl transcript/cut.lower.tsv words.mlf
+  688  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  689  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  690  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  691  /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2wlist.jl transcript/cut.lower.tsv wlist
+  692  cat wlist | sed 's/[^a-zA-Z0-9]//g' > wlist.stripunc
+  693  sort wlist.stripunc | uniq -u > wlist.uniq
+  694  man sort
+  695  sort -u wlist.stripunc > wlist.uniq
+  696  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  697  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  698  sort lexicon.txt -o lexicon.sort.txt
+  699  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  700  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  701  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  702  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  703  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  704  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  705  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  706  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  707  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  708  ls
+  709  cd set_1/
+  710  ls
+  711  mv A052/* ./*
+  712  ls
+  713  mv B194/* *
+  714  ls -alt
+  715  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  716  cd ..
+  717  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  718  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  719  pwd
+  720  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  721  ls -alt set_1/ | wc -l
+  722  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  723  ls -alt set_1/ | wc -l
+  724  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  725  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  726  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  727  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  728  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  729  sort -u wlist.stripunc > wlist.uniq
+  730  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  731  sort -u wlist.stripunc > wlist.uniq
+  732  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  733  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  734  sort -u wlist.stripunc > wlist.uniq
+  735  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  736  sort lexicon.txt -o lexicon.sort.txt
+  737  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  738  sort -u wlist.stripunc > wlist.uniq
+  739  sort lexicon.txt -o lexicon.sort.txt
+  740  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  741  sort -u wlist.stripunc > wlist.uniq
+  742  sort lexicon.txt -o lexicon.sort.txt
+  743  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  744  sort -u wlist.stripunc > wlist.uniq
+  745  sort lexicon.txt -o lexicon.sort.txt
+  746  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
+  747  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  748  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  749  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  750  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  751  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  752  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  753  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  754  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  755  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  756  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  757  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  758  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  759  HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  760  sort -u wlist.stripunc > wlist.uniq && sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  761  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  762  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  763  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  764  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  765  HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  766  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  767  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  768  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  769  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  770  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  771  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  772  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  773  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  774  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  775  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  776  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  777  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  778  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  779  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  780  sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
+  781  git add .
+  782  git commit -m "hled beres"
+  783  git push origin master
+  784  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  785  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  786  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  787  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  788  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  789  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  790  HCopy -T 1 -C config -S codetr.scp
+  791  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  792  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  793  HCopy -T 1 -C config -S codetr.scp
+  794  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  795  HCompV -A -D -T 1 -C config -f 0.01 -m -S train.scp -M hmm0 proto
+  796  HERest -A -D -T 1 -C config -I phones0.mlf -t 250.0 150.0 1000.0 -S train.scp -H hmm0/macros -H hmm0/hmmdefs -M hmm1 monophones1
+  797  HERest -A -D -T 1 -C config -I phones0.mlf -t 250.0 150.0 1000.0 -S train.scp -H hmm1/macros -H hmm1/hmmdefs -M hmm2 monophones0
+  798  HERest -A -D -T 1 -C config -I phones0.mlf -t 250.0 150.0 1000.0 -S train.scp -H hmm1/macros -H hmm1/hmmdefs -M hmm2 monophones1
+  799  HERest -A -D -T 1 -C config -I phones0.mlf -t 250.0 150.0 1000.0 -S train.scp -H hmm2/macros -H hmm2/hmmdefs -M hmm3 monophones1
+  800  HHEd -A -D -T 1 -H hmm4/macros -H hmm4/hmmdefs -M hmm5 sil.hed monophones1
+  801  HERest -A -D -T 1 -C config  -I phones1.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm5/macros -H  hmm5/hmmdefs -M hmm6 monophones1
+  802  HERest -A -D -T 1 -C config  -I phones0.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm5/macros -H  hmm5/hmmdefs -M hmm6 monophones1
+  803  HERest -A -D -T 1 -C config  -I phones0.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm6/macros -H hmm6/hmmdefs -M hmm7 monophones1
+  804  HVite -A -D -T 1 -l '*' -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1> HVite_log
+  805  HVite -A -D -T 1 -l '*' -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1> HVite_log
+  806  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  807  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  808  HVite -A -D -T 1 -l '*' -o SWT -b SENT-END -C config -H hmm7/macros -H hmm7/hmmdefs -i aligned.mlf -m -t 250.0 150.0 1000.0 -y lab -a -I words.mlf -S train.scp dict monophones1> HVite_log
+  809  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  810  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  811  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  812  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  813  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  814  HERest -A -D -T 1 -C config -I aligned.mlf -t 250.0 150.0 3000.0 -S train.scp -H hmm7/macros -H hmm7/hmmdefs -M hmm8 monophones1 
+  815  history
+  816  history > history
