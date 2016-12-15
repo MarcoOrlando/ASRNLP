@@ -3,119 +3,6 @@ Missing Words
 -------------
 SENTEND
 SENTSTART
-afwamithariq
-ahiroti
-aibaib
-ajmain
-akhirakhir
-aktoraktor
-alaqsa
-alassad
-alhamdulillaahirabbilalamiin
-alihi
-anugerahkanlah
-aquamitoriq
-arafatpowell
-asholatu
-atina
-atletatlet
-atu
-aylan
-azabanar
-bachir
-bahagiakan
-bahumembahu
-bandelbandelnya
-bapakibu
-bayibayi
-belumbelum
-berapiapi
-berbedabeda
-berdaampak
-berduyunduyun
-berkacakaca
-berkasberkas
-berteletele
-berubahubah
-betulbetul
-biayabiaya
-bijibiji
-bismillahirahmanirrahim
-bitaqwallahi
-blokm
-bolehboleh
-buloggeitbruneigeit
-cabangcabang
-calocalo
-cawangtomangpluit
-ceplasceplos
-contohcontoh
-coratcoret
-coretcoretnya
-daerahdaerah
-dieluelukan
-dilobby
-direviyu
-diselasela
-ditundatunda
-dosadosa
-duaduanya
-ebanking
-empatlima
-faktorfaktor
-fannys
-fidunya
-forumforum
-foyafoya
-garagara
-garindo
-gawharatal
-geraigerai
-grogolkalideres
-grupgrup
-hadiwijoyo
-hakhak
-haltehalte
-hasilhasil
-helaihelai
-hentakanhentakan
-hiduphidup
-hirukpikuk
-huuu
-identitasidentitas
-idnya
-ilia
-indonesiationghoa
-ipnu
-jadijadian
-jakartacirebon
-jauhjauh
-jelasjelas
-jingkrakjingkrak
-joggingnya
-junghwan
-kacakacanya
-kaesang
-karubaga
-karunianya
-kasuskasus
-kecilkecilan
-kelompokkelompok
-kelua
-kemenesdm
-kemenkomar
-ketapanggilimanuk
-khususdi
-komatkamit
-konflikkonflik
-kongkowkongkow
-krisisyozi
-lainlain
-lakal
-lamalama
-landailandai
-lapaslapas
-lilzalali
 marda
 maroef
 masalahmasalah
@@ -247,45 +134,46 @@ zonazona
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-lexicon.sort    179198       5878     182634       6379
-        dict      5878       5878       6379       6379
+lexicon.sort    179313       5991     182751       6492
+        dict      5991       5991       6492       6492
 
-6120 words required, 242 missing
+6120 words required, 129 missing
 
 New Phone Usage Counts
 ---------------------
-  1. s     :  2138
-  2. e     :  1673
-  3. r     :  2621
-  4. i     :  3540
-  5. b     :  1185
-  6. u     :  2124
-  7. m     :  2139
-  8. l     :  1561
-  9. a     :  7066
- 10. n     :  3046
- 11. t     :  1965
- 12. p     :  1398
- 13. h     :   913
- 14. sp    :  6379
- 15. d     :  1371
+  1. s     :  2172
+  2. e     :  1703
+  3. r     :  2676
+  4. i     :  3642
+  5. b     :  1234
+  6. u     :  2176
+  7. m     :  2169
+  8. l     :  1638
+  9. a     :  7275
+ 10. n     :  3113
+ 11. t     :  2012
+ 12. p     :  1418
+ 13. h     :   960
+ 14. sp    :  6492
+ 15. d     :  1409
  16. ai    :   153
- 17. k     :  2137
+ 17. k     :  2199
  18. ng    :   994
- 19. y     :   310
- 20. @     :  2561
- 21. o     :  1604
- 22. g     :   574
- 23. ny    :   527
- 24. z     :   151
- 25. c     :   334
- 26. w     :   382
+ 19. y     :   331
+ 20. @     :  2603
+ 21. o     :  1658
+ 22. g     :   607
+ 23. ny    :   528
+ 24. z     :   154
+ 25. c     :   355
+ 26. w     :   391
  27. kh    :    87
- 28. j     :   483
- 29. f     :   475
- 30. sy    :    83
- 31. q     :     8
+ 28. j     :   498
+ 29. f     :   487
+ 30. q     :    13
+ 31. sy    :    83
  32. oi    :    16
  33. au    :    64
+ 34. v     :     1
 
 Dictionary dict created
