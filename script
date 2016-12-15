@@ -1,7 +1,10 @@
 cat wlist | sed 's/[^a-zA-Z0-9]//g' > wlist.stripunc
-sort wlist.stripunc | uniq -u > wlist.uniq
+sort -u wlist.stripunc > wlist.uniq
 sort lexicon.txt -o lexicon.sort.txt
 HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt
 HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf
 /Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2wlist.jl transcript/cut.lower.tsv wlist
+/Applications/Julia-0.5.app/Contents/Resources/julia/bin/julia prompts2mlf.jl transcript/cut.lower.tsv words.mlf
 cat transcript/cut.tsv | tr '[:upper:]' '[:lower:]' > transcript/cut.lower.tsv
+
+sort -u wlist.stripunc > wlist.uniq && sort lexicon.txt -o lexicon.sort.txt && HDMan -A -D -T 1 -m -w wlist.uniq -n monophones1 -i -l dlog dict lexicon.sort.txt && HLEd -A -D -T 1 -l '*' -d dict -i phones0.mlf mkphones0.led words.mlf

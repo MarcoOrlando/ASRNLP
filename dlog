@@ -1,114 +1,49 @@
 WARNING: no script file lexicon.sort.txt.ded
-Missing Words
--------------
-SENTEND
-SENTSTART
-marda
-maroef
-masalahmasalah
-mathin
-matimatian
-mayatmayat
-melambailambaikan
-melanjutnya
-memarmemar
-menakutnakuti
-menclamencle
-menentengnenteng
-mengadaada
-mengajarngajarkan
-mengipasngipasi
-mengoyakngoyak
-mengubekngubek
-mengucekucek
-menunggingnungging
-miripmirip
-misbakun
-motifmotif
-mudahmudahan
-naimin
-neneknenek
-ngalorngidul
-ngawalngawal
-ngebutngebutan
-ngobrolngobrol
-ngomongngomong
-nilainilai
-nonaktifkan
-nonfiskal
-panjipanji
-panwascam
-partaipartai
-patuhilah
-pdiperjuangan
-pegawaipegawai
-peluangpeluang
-penyelewenganpenyelewengan
-perahuperahu
-perkenannya
-pertamatama
-perusahanperusahaan
-pocopoco
-produkproduk
-proestrada
-puingpuing
-putarputar
-putihkanlah
-puty
-qowi
-rahasiarahasia
-ramairamai
-rekanrekan
-remrem
-revita
-ributribut
-robbana
-sabdatama
-sahsah
 
 Dictionary Usage Statistics
 ---------------------------
   Dictionary    TotalWords WordsUsed  TotalProns PronsUsed
-lexicon.sort    179378       6056     182816       6557
-        dict      6056       6056       6557       6557
+lexicon.sort    179462       7272     182900       7910
+        dict      7272       7272       7910       7909
 
-6120 words required, 64 missing
+7272 words required, 0 missing
 
 New Phone Usage Counts
 ---------------------
-  1. s     :  2228
-  2. e     :  1709
-  3. r     :  2700
-  4. i     :  3693
-  5. b     :  1248
-  6. u     :  2235
-  7. m     :  2194
-  8. l     :  1679
-  9. a     :  7417
- 10. n     :  3150
- 11. t     :  2047
- 12. p     :  1422
- 13. h     :   978
- 14. sp    :  6557
- 15. d     :  1417
- 16. ai    :   153
- 17. k     :  2226
- 18. ng    :   999
- 19. y     :   344
- 20. @     :  2631
- 21. o     :  1676
- 22. g     :   625
- 23. ny    :   537
- 24. z     :   158
- 25. c     :   355
- 26. w     :   406
- 27. kh    :    87
- 28. j     :   507
- 29. f     :   493
- 30. q     :    14
- 31. sy    :    86
- 32. oi    :    16
- 33. au    :    64
- 34. v     :     3
+  1. s     :  2644
+  2. e     :  2068
+  3. r     :  3197
+  4. i     :  4368
+  5. b     :  1509
+  6. u     :  2655
+  7. m     :  2590
+  8. l     :  1991
+  9. a     :  8848
+ 10. n     :  3661
+ 11. t     :  2451
+ 12. p     :  1710
+ 13. h     :  1163
+ 14. sp    :  7909
+ 15. sil   :     2
+ 16. d     :  1665
+ 17. ai    :   199
+ 18. k     :  2620
+ 19. ng    :  1191
+ 20. y     :   387
+ 21. @     :  3039
+ 22. o     :  1975
+ 23. g     :   730
+ 24. ny    :   607
+ 25. z     :   188
+ 26. c     :   414
+ 27. kh    :   110
+ 28. w     :   481
+ 29. j     :   598
+ 30. f     :   598
+ 31. q     :    15
+ 32. sy    :   122
+ 33. oi    :    21
+ 34. au    :    79
+ 35. v     :     1
 
 Dictionary dict created
